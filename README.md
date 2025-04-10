@@ -1,4 +1,4 @@
-<h1 align="center">💻 Dana Cohen – Backend Developer</h1>
+<h1 align="center">Dana Cohen – Backend Developer</h1>
 
 <p align="center">
   Backend developer with hands-on experience building scalable, cloud-based services in Python, C#, and Java.<br>
@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- 🐍 **Languages**: Python, C#, Java, SQL  
+- 💻 **Languages**: Python, C#, Java, SQL  
 - ⚙️ **Frameworks**: FastAPI, .NET, Pytest  
 - 🛢️ **Databases**: PostgreSQL, SQL Server  
 - ☁️ **Cloud & Infra**: Azure, Docker, Docker Compose  
